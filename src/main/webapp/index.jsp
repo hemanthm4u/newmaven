@@ -1,5 +1,5 @@
 <html>
 <body bgcolor="#0fffff">
-<center><h1>DOCKER DEPLOYMENT</h1></center>
+<center><h1>TOMCAT DEPLOYMENT</h1></center>
 </body>
 </html>
