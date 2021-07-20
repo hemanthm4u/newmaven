@@ -1,5 +1,5 @@
 <html>
-<body bgcolor="#0fffff">
+<body bgcolor="#00ffff">
 <center><h1>DOCKER DEPLOYMENT</h1></center>
 </body>
 </html>
